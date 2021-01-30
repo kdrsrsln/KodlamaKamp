@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaKamp", "KodlamaKamp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4GunOdev5Dictionary", "4GunOdev5Dictionary\4GunOdev5Dictionary.csproj", "{AF67B433-880F-4F5C-859D-D7CE346B74DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{E4F19C28-B406-4510-BE5B-FCB4D501547C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5GunOdev5GameSimulation", "5GunOdev5GameSimulation\5GunOdev5GameSimulation.csproj", "{13C836BB-43DA-4B6A-8D4E-6E277326F3AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AF67B433-880F-4F5C-859D-D7CE346B74DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF67B433-880F-4F5C-859D-D7CE346B74DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF67B433-880F-4F5C-859D-D7CE346B74DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F19C28-B406-4510-BE5B-FCB4D501547C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F19C28-B406-4510-BE5B-FCB4D501547C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F19C28-B406-4510-BE5B-FCB4D501547C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F19C28-B406-4510-BE5B-FCB4D501547C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C836BB-43DA-4B6A-8D4E-6E277326F3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C836BB-43DA-4B6A-8D4E-6E277326F3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C836BB-43DA-4B6A-8D4E-6E277326F3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C836BB-43DA-4B6A-8D4E-6E277326F3AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
